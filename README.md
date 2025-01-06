@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan but i go by J.D.
+- 👋 Hi, I’m Jonathan but i prefer to go by J.D
 - 👀 I’m interested in UX/UI Design & Research, App / Web Developement Entry Level.
 - 🌱 I’m currently practicing Front End Development for Web, SwiftUI and Simple Python.
 - 💞️ I’m looking to craft some Web Projects, get into Automation. I want to be challenged and think outside the box.

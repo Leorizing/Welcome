@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Jonathan but i prefer to go by J.D
-- 👀 I’m interested in UX/UI Design & Research, App / Web Developement Entry Level.
-- 🌱 I’m currently practicing Front End Development for Web, SwiftUI and Simple Python.
-- 💞️ I’m looking to craft some Web Projects, get into Automation. I want to be challenged and think outside the box.
-- 🧠 Looking to Master SwiftUI & Python Automation, then move into Learning JavaScript, C++ but open to recommendations.
-- 👨🏻‍💻 Eventaully looking to land a role in SWE / HWE QA Teams around Network Technologies then move into Masting my Developer skills and create functional and beautiful products. 
+- 👀 I’m Focused on UX/UI Design & Research, App & Web Developement and Automation. 
+- 🌱 I’m currently Practicing Front End Development with HTML/CSS, SwiftUI and Simple Python.
+- 💞️ I’m currently  crafting some Web Projects, get more familar with Python Automation. 
+- 🧠 Looking to Master SwiftUI & Python Automation, then move into Learning JavaScript and more later on. 
+- 🙋🏻‍♂️ I like to be challenged and think outside the box. I am self taught Engineer with deep technical background. 
+- 👨🏻‍💻 Eventaully looking to land a role in SWE / HWE QA Teams around Network Technologies then move into shipping functional and beautiful tools others enjoy using. 
 - 📫 How to reach me jdcali@icloud.com
-- Let collaborate and learn from each other. 
+- 🗣️ Let collaborate and learn from each other. 
 
 <!---
 Leorizing/Leorizing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
